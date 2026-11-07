@@ -6,9 +6,9 @@
     {"week": 1, "title": "숫자 감 테스트", "line": "당신의 숫자 감각을 테스트 해보슈",
      "judgment": "BIS 기준 daily 금리 기준으로 테스트 해보슈~~ 블라블라",
      "ai": ["Claude Code", "v0", "Perplexity"], "url": "https://gam-test-black.vercel.app/", "img": "img/w1.jpg"},
-    {"week": 2, "title": "고객 한마디 분류기", "line": "고객상담 자동분류기",
-     "judgment": "기준에서 내가 정한 것 · 보내기 전에 무엇을 가리는지 · 채점 결과를 어디까지 믿는지",
-     "ai": ["Claude Code", "Google AI Studio", "ChatGPT"], "url": "https://classifier-ea1viiq3s-xhaxogus-ux.vercel.app/", "img": ""}
+    {"week": 2, "title": "사내 IT 요청 분류기 — 빈 폴더에서", "line": "IT 요청 한 줄을 넣으면 칸 · 긴급도 · 이유가 나옵니다. 문장과 정답은 직접 만들었습니다",
+     "judgment": "보안을 놓치는 것을 가장 나쁜 실수로 정했다. 규칙은 보안 4건을 모두 놓쳤다. 채점용 30개의 정답은 AI의 의도를 가린 채 내가 붙였고, 6개가 갈렸다",
+     "ai": ["Claude Code", "Gemini"], "url": "https://my-classifier-example.vercel.app", "img": ""}
   ],
   "proposal": null
 }
