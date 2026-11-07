@@ -8,7 +8,7 @@
      "ai": ["Claude Code", "v0", "Perplexity"], "url": "https://gam-test-black.vercel.app/", "img": "img/w1.jpg"},
     {"week": 2, "title": "사내 IT 요청 분류기 — 빈 폴더에서", "line": "IT 요청 한 줄을 넣으면 칸 · 긴급도 · 이유가 나옵니다. 문장과 정답은 직접 만들었습니다",
      "judgment": "보안을 놓치는 것을 가장 나쁜 실수로 정했다. 규칙은 보안 4건을 모두 놓쳤다. 채점용 30개의 정답은 AI의 의도를 가린 채 내가 붙였고, 6개가 갈렸다",
-     "ai": ["Claude Code", "Gemini"], "url": "https://my-classifier-example.vercel.app", "img": ""}
+     "ai": ["Claude Code", "Gemini"], "url": "https://my-classifier-seven.vercel.app", "img": ""}
   ],
   "proposal": null
 }
