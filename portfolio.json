@@ -5,7 +5,10 @@
   "cards": [
     {"week": 1, "title": "숫자 감 테스트", "line": "당신의 숫자 감각을 테스트 해보슈",
      "judgment": "BIS 기준 daily 금리 기준으로 테스트 해보슈~~ 블라블라",
-     "ai": ["Claude Code", "v0", "Perplexity"], "url": "https://gam-test-black.vercel.app/", "img": "img/w1.jpg"}
+     "ai": ["Claude Code", "v0", "Perplexity"], "url": "https://gam-test-black.vercel.app/", "img": "img/w1.jpg"},
+    {"week": 2, "title": "고객 한마디 분류기", "line": "고객상담 자동분류기",
+     "judgment": "기준에서 내가 정한 것 · 보내기 전에 무엇을 가리는지 · 채점 결과를 어디까지 믿는지",
+     "ai": ["Claude Code", "Google AI Studio", "ChatGPT"], "url": "https://classifier-ea1viiq3s-xhaxogus-ux.vercel.app/", "img": ""}
   ],
   "proposal": null
 }
